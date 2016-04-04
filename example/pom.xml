@@ -3,7 +3,7 @@
 
   <groupId>maven.demo</groupId>
   <artifactId>example</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOTS</version>
   <packaging>jar</packaging>
 
   <name>example</name>
