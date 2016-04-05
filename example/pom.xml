@@ -3,7 +3,7 @@
 
   <groupId>maven.demo</groupId>
   <artifactId>example</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>example</name>
@@ -97,7 +97,7 @@
   <connection>scm:git:git://github.com/nagalalitha/helloworld.github</connection>
   <developerConnection>scm:git:git@github.com:nagalalitha/helloworld.github</developerConnection>
   
-    <tag>example-1.0</tag>
+    <tag>example-1.1</tag>
   </scm>
   
   
