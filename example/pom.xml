@@ -84,7 +84,7 @@
 			          <version>2.5.3</version>
 				<configuration> 
 				  <tagBase>
-				  https://github.com/nagalalitha/helloworld.github.io
+				  https://github.com/nagalalitha/helloworld.github
 				  </tagBase> 
 				   </configuration>
 				        </plugin>
@@ -93,9 +93,9 @@
     </build>
 	
 	 <scm>
-  <url>https://github.com/nagalalitha/helloworld.github.io</url>
-  <connection>scm:git:git://github.com/nagalalitha/helloworld.github.io.git</connection>
-  <developerConnection>scm:git:git@github.com:nagalalitha/helloworld.github.io.git</developerConnection>
+  <url>https://github.com/nagalalitha/helloworld.github</url>
+  <connection>scm:git:git://github.com/nagalalitha/helloworld.github</connection>
+  <developerConnection>scm:git:git@github.com:nagalalitha/helloworld.github</developerConnection>
   
     <tag>example-1.0</tag>
   </scm>
