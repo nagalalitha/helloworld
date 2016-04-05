@@ -96,7 +96,7 @@
   <connection>scm:git:git://github.com/nagalalitha/helloworld.github.io.git</connection>
   <developerConnection>scm:git:git@github.com:nagalalitha/helloworld.github.io.git</developerConnection>
   
-    <tag>project-1.0</tag>
+    <tag>project-1.1</tag>
   </scm>
 	
 </project>
